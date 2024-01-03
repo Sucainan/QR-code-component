@@ -1,0 +1,42 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+section {
+  background-color: White;
+  width: 15%;
+  border-radius: 20px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+}
+.text1 {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 23px;
+  padding: -10px 10px 5px 10px;
+  color: hsl(218, 44%, 22%);
+}
+.text2 {
+  text-align: center;
+  font-family: "Outfit", sans-serif;
+  font-weight: 400px;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+  padding: 5px 5px 20px 5px;
+}
+.QR {
+  width: 250px;
+  height: 240px;
+  padding: 16px 12px 4px 19px;
+  border-radius: 30px;
+}
